@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: 11-OAuth-Git-App
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23li101NnJt839wEiH
+            client-secret: 95c89e43e5b8ef81605ccd2e2317c9eaf8e9edc5
